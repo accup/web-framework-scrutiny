@@ -1,7 +1,7 @@
 # 🤔 Nuxt v3
 
-| Project for me         | Simplicity | Ease |
-| :--------------------- | ---------- | ---- |
+| Project for me         | Simplicity | Ease | Feasibility |
+| :--------------------- | ---------- | ---- | ----------- |
 | [nuxt@3](./nuxt@3/)    |
 | nuxt@3+css-scoped      |
 | nuxt@3+css-module      |
