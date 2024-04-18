@@ -2,5 +2,5 @@
 
 | Project for me    | Description                   |
 | :---------------- | :---------------------------- |
-| [@nuxt](./@nuxt/) | plain nuxt project            |
-| @nuxt+css         | plain css-styled nuxt project |
+| [@nuxt](./@nuxt/) | Plain Nuxt project            |
+| @nuxt+css         | Plain css-styled Nuxt project |
