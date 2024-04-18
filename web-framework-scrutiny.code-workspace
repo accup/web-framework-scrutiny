@@ -5,8 +5,7 @@
       "path": "."
     },
     {
-      "name": "@nuxt",
-      "path": "nuxt/@nuxt"
+      "path": "nuxt@3/nuxt@3"
     }
   ],
   "settings": {}
