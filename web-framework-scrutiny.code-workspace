@@ -1,3 +1,13 @@
 {
-	"folders": []
+  "folders": [
+    {
+      "name": "web-framework-scrutiny",
+      "path": "."
+    },
+    {
+      "name": "@nuxt",
+      "path": "nuxt/@nuxt"
+    }
+  ],
+  "settings": {}
 }
