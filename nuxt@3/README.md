@@ -1,6 +1,12 @@
 # 🤔 Nuxt v3
 
-| Project for me      |
-| :------------------ |
-| [nuxt@3](./nuxt@3/) |
-| nuxt@3+css          |
+| Project for me         | Simplicity | Ease |
+| :--------------------- | ---------- | ---- |
+| [nuxt@3](./nuxt@3/)    |
+| nuxt@3+css-scoped      |
+| nuxt@3+css-module      |
+| nuxt@3+scss-scoped     |
+| nuxt@3+scss-module     |
+| nuxt@3+tailwindcss     |
+| nuxt@3+pandacss        |
+| nuxt@3+vanilla-extract |
