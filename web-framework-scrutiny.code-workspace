@@ -6,6 +6,9 @@
     },
     {
       "path": "nuxt@3/nuxt@3"
+    },
+    {
+      "path": "nuxt@3/nuxt@3+vanilla-extract"
     }
   ],
   "settings": {}
